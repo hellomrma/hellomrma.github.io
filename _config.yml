@@ -1,0 +1,8 @@
+title: Hellomrma.GitHub.io
+description: Front End Developer, hellomrma.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
